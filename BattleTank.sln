@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTank", "ClientTank\ClientTank.csproj", "{4F2758D2-E16B-4871-9EBA-81456ADE2AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTank", "ServerTank\ServerTank.csproj", "{55A95E50-0095-4555-AC44-D12058A23495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2758D2-E16B-4871-9EBA-81456ADE2AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2758D2-E16B-4871-9EBA-81456ADE2AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2758D2-E16B-4871-9EBA-81456ADE2AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2758D2-E16B-4871-9EBA-81456ADE2AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A95E50-0095-4555-AC44-D12058A23495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A95E50-0095-4555-AC44-D12058A23495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A95E50-0095-4555-AC44-D12058A23495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A95E50-0095-4555-AC44-D12058A23495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98055EA0-CFA6-4C07-B7C9-264BDB95BEAC}
+	EndGlobalSection
+EndGlobal
